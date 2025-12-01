@@ -87,10 +87,4 @@ When adding new tests:
 3. Ensure tests are independent and can run in any order
 4. Update documentation when adding new functionality
 
-## Documentation
 
-For detailed information about the project architecture, helper methods, and implementation details, see [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md).
-
-## License
-
-This project is provided as-is for educational and testing purposes.
